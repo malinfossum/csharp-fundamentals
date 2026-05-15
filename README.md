@@ -1,19 +1,21 @@
 # C# Fundamentals
 
-If/else, random, switch, loops, arrays and lists, value vs reference types. Module 2 of Emne 3 at Get Academy.
+Modul 2 of Emne 3 at Get Academy. Small console exercises covering if/else, switch, loops, random, and basic games.
 
 Single console project with a menu — each exercise is its own class. Run the app, pick a number, see the exercise output.
 
-## Tasks
+## Exercises
 
-| Class | Curriculum (NO) | What |
-|---|---|---|
-| `IfElse` | If/else | Three method exercises: equal numbers, sum or product, either or sum is 30. |
-| `RandomHobby` | Random Hobby | Pick a random hobby from a list. |
-| `CrocodileGame` | Krokodillespillet | Compare two numbers — `<`, `>`, `=` — first to 5 correct wins. |
-| `TextTinkering` | TekstTukling | Menu: rotate text, or replace `e` with `a`. |
-| `CodeReading` | Hva gjør denne koden? | Read existing code (char frequency) and explain it. |
-| `GuessTheNumber` | Gjett tallet | Guess 1–100 with hot/cold hints. |
+| # | Class | Curriculum (NO) | What |
+|---|---|---|---|
+| 1 | `IfElse` | If/else | Three methods: equal numbers, sum or product, either or sum is 30. |
+| 2 | `RandomHobby` | Random Hobby | Pick a random hobby from a list. |
+| 3 | `CrocodileGame` | Krokodillespillet | Compare two random numbers (`<`, `>`, `=`). Score ±1, end on invalid input. |
+| 4 | `TextTinkering` | TekstTukling | Menu: rotate text, or replace `e` with `a`. |
+| 5 | `CodeReading` | Hva gjør denne koden? | Reading-only exercise (no code to run). |
+| 6 | `GuessTheNumber` | Gjett Tallet! | Guess 1–100 with higher/lower hints. Replay on confirm. |
+| 7 | `Switch` | Switch | Map 1–7 to a weekday, hardcoded and from user input. |
+| 8 | `Loops` | Loops | `for`, `foreach`, and `while` examples. |
 
 ## Run
 
