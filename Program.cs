@@ -15,6 +15,7 @@ void Run()
         Console.WriteLine("4 - Text Tinkering");
         Console.WriteLine("5 - Code Reading");
         Console.WriteLine("6 - Guess The Number");
+        Console.WriteLine("7 - Switch");
         Console.WriteLine("0 - Exit");
         Console.WriteLine();
         Console.Write("Choose: ");
@@ -30,6 +31,7 @@ void Run()
             case "4": new TextTinkering().Run(); break;
             case "5": new CodeReading().Run(); break;
             case "6": new GuessTheNumber().Run(); break;
+            case "7": new Switch().Run(); break;
             case "0": return;
             default:
                 Console.WriteLine("Invalid input.");
